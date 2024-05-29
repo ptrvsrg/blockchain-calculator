@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-calculator-server",
+  "description": "",
+  "author": "ptrvsrg",
+  "version": "0.0.0",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pino": "^9.1.0",
+    "web3": "^4.9.0"
+  }
+}

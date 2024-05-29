@@ -323,4 +323,6 @@ $RECYCLE.BIN/
 # and uncomment the following lines
 # .pnp.*
 
+package-lock.json
+
 # End of https://www.toptal.com/developers/gitignore/api/node,yarn,jetbrains+all,dotenv,solidity,linux,windows,macos
